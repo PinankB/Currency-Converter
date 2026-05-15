@@ -18,7 +18,7 @@ CSS
 JavaScript (Vanilla)
 Fetch API (for HTTP requests)
 Public Currency API:
-https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies
 How It Works
 Currency dropdowns are dynamically populated from a predefined currency list.
 When a user selects a currency, the corresponding country flag is updated using a flag API.
@@ -31,7 +31,8 @@ API Integration
 This project uses a free public currency API:
 
 Base endpoint:
-https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies
+
 
 Example request format:
 
